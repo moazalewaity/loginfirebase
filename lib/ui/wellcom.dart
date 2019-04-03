@@ -1,12 +1,11 @@
 import 'package:loginfirebase/ui/login_page.dart';
-import 'package:loginfirebase/ui/sign_up.dart';
+//import 'package:loginfirebase/ui/sign_up.dart';
 import 'package:flutter/material.dart';
 
 class WelcomePage extends StatefulWidget {
   WelcomePage();
 
   factory WelcomePage.forDesignTime() {
-    // TODO: add arguments
     return new WelcomePage();
   }
 
